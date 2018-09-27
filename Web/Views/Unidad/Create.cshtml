@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Agregar Unidad</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required/><label style="color:red;" ng-show="form.nombre.$error.required" > *</label>
+    </div><br/>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Director</label>
+        <input type="text" ng-model="vm.entidad.Director" class="form-control col-sm-12 col-md-11" name="director" capitalize required/><label style="color:red;" ng-show="form.director.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Email</label>
+        <input type="email" ng-model="vm.entidad.Correo" class="form-control col-sm-12 col-md-11" name="correo" capitalize required/><label style="color:red;" ng-show="form.correo.$error.required"> *</label><label style="color:green;" ng-show="form.correo.$valid"> Correo Valido</label><label style="color:red;" ng-show="form.correo.$invalid&&form.correo.$touched"> Correo Invalido</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Telefono</label>
+        <input type="text" ng-model="vm.entidad.Telefono" class="form-control col-sm-12 col-md-11" name="telefono" numbers-only required/><label style="color:red;" ng-show="form.telefono.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Direccion</label>
+        <textarea ng-model="vm.entidad.Direccion" class="form-control col-sm-12 col-md-11" style="max-height:150px" name="direccion" capitalize required></textarea><label style="color:red;" ng-show="form.direccion.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required&&!form.director.$error.required&&form.correo.$valid&&!form.telefono.$error.required&&!form.direccion.$error.required)"/>
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>
+

@@ -1,0 +1,15 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Agregar Turno</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required /><label style="color:red;" ng-show="form.nombre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>

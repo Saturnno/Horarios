@@ -1,0 +1,878 @@
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\ApplicationInsights.config
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\csc.exe
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\vbc.exe
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Web.dll.config
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Web.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Web.pdb
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Antlr3.Runtime.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.Web.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Newtonsoft.Json.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Net.Http.Formatting.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Helpers.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Http.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Http.WebHost.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Mvc.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Optimization.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Razor.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\WebGrease.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.Web.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Newtonsoft.Json.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Net.Http.Formatting.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Helpers.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Http.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Http.WebHost.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Mvc.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Optimization.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.Razor.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\Antlr3.Runtime.pdb
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Http.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\obj\Debug\Web.dll
+c:\users\abraham.grijalva\documents\visual studio 2015\Projects\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\Business.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\DataAccess.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\Entities.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\EntityFramework.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\Business.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\DataAccess.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\Entities.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\EntityFramework.xml
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Web.dll.config
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Web.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Web.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Business.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\DataAccess.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Entities.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\EntityFramework.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\WebGrease.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Business.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\DataAccess.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Entities.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\EntityFramework.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\obj\Debug\Web.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Web.dll.config
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Web.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Web.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Business.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\DataAccess.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Entities.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\EntityFramework.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\WebGrease.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Business.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\DataAccess.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Entities.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\EntityFramework.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\obj\Debug\Web.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Web.dll.config
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Web.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Web.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Business.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Entities.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\WebGrease.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Business.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\obj\Debug\Web.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Web\obj\Debug\Web.pdb
+D:\Horarios 13032017\Horarios\Web\bin\ApplicationInsights.config
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\csc.exe
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\vbc.exe
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+D:\Horarios 13032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Horarios 13032017\Horarios\Web\bin\Web.dll.config
+D:\Horarios 13032017\Horarios\Web\bin\Web.dll
+D:\Horarios 13032017\Horarios\Web\bin\Web.pdb
+D:\Horarios 13032017\Horarios\Web\bin\Antlr3.Runtime.dll
+D:\Horarios 13032017\Horarios\Web\bin\Business.dll
+D:\Horarios 13032017\Horarios\Web\bin\DataAccess.dll
+D:\Horarios 13032017\Horarios\Web\bin\Entities.dll
+D:\Horarios 13032017\Horarios\Web\bin\EntityFramework.dll
+D:\Horarios 13032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Horarios 13032017\Horarios\Web\bin\Newtonsoft.Json.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Helpers.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Http.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Mvc.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Optimization.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Razor.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.dll
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+D:\Horarios 13032017\Horarios\Web\bin\WebGrease.dll
+D:\Horarios 13032017\Horarios\Web\bin\Business.pdb
+D:\Horarios 13032017\Horarios\Web\bin\DataAccess.pdb
+D:\Horarios 13032017\Horarios\Web\bin\Entities.pdb
+D:\Horarios 13032017\Horarios\Web\bin\EntityFramework.xml
+D:\Horarios 13032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+D:\Horarios 13032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Horarios 13032017\Horarios\Web\bin\Newtonsoft.Json.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Helpers.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Http.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Mvc.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Optimization.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.Razor.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+D:\Horarios 13032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+D:\Horarios 13032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Horarios 13032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Horarios 13032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Horarios 13032017\Horarios\Web\obj\Debug\Web.dll
+D:\Horarios 13032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oscar\Desktop\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Web.dll.config
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Web.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Web.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Business.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Entities.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\WebGrease.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Business.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oscar\Desktop\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oscar\Desktop\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios\Web\obj\Debug\Web.dll
+C:\Users\Oscar\Desktop\Horarios\Web\obj\Debug\Web.pdb
+D:\Horarios 16032017\Horarios\Web\bin\ApplicationInsights.config
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\csc.exe
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\vbc.exe
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+D:\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Horarios 16032017\Horarios\Web\bin\Web.dll.config
+D:\Horarios 16032017\Horarios\Web\bin\Web.dll
+D:\Horarios 16032017\Horarios\Web\bin\Web.pdb
+D:\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.dll
+D:\Horarios 16032017\Horarios\Web\bin\Business.dll
+D:\Horarios 16032017\Horarios\Web\bin\DataAccess.dll
+D:\Horarios 16032017\Horarios\Web\bin\Entities.dll
+D:\Horarios 16032017\Horarios\Web\bin\EntityFramework.dll
+D:\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Http.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.dll
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+D:\Horarios 16032017\Horarios\Web\bin\WebGrease.dll
+D:\Horarios 16032017\Horarios\Web\bin\Business.pdb
+D:\Horarios 16032017\Horarios\Web\bin\DataAccess.pdb
+D:\Horarios 16032017\Horarios\Web\bin\Entities.pdb
+D:\Horarios 16032017\Horarios\Web\bin\EntityFramework.xml
+D:\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+D:\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Http.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+D:\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+D:\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Horarios 16032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Horarios 16032017\Horarios\Web\obj\Debug\Web.dll
+D:\Horarios 16032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll.config
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\WebGrease.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll.config
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\WebGrease.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.dll
+C:\Users\rguzman.VEPINSA\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll.config
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\WebGrease.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\ApplicationInsights.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\csc.exe
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\vbc.exe
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Web.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\WebGrease.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Business.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\DataAccess.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Entities.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Newtonsoft.Json.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Helpers.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Mvc.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Optimization.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.Razor.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\obj\Debug\Web.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\CrystalDecisions.Shared.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Web\bin\CrystalDecisions.Web.dll

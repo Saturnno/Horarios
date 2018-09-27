@@ -1,0 +1,322 @@
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\abraham.grijalva\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\Entities.dll
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+D:\Horarios 13032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+D:\Horarios 13032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+C:\Users\Oscar\Desktop\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.dll
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+D:\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m21.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m22.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m23.resources
+D:\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m24.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m21.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m22.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m23.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m24.resources
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m21.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m22.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m23.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m24.resources
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\Entities.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m21.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m22.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m23.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m24.resources
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.Web.dll

@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Editar Grupo</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required /><label style="color:red;" ng-show="form.nombre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Aula</label>
+        <input type="text" ng-model="vm.entidad.Aula" class="form-control col-sm-12 col-md-11" name="aula" capitalize required /><label style="color:red;" ng-show="form.aula.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Trimestre</label>
+        <select name="trimestre" ng-model="vm.entidad.TrimestreId" ng-options="i.Id as i.Nombre for i in vm.listTrimestres" class="form-control col-sm-12 col-md-10" required></select>
+        <label style="color:red;" ng-show="form.trimestre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Unidad</label>
+        <select name="unidad" ng-model="vm.entidad.UnidadId" ng-options="i.Id as i.Nombre for i in vm.listUnidades" class="form-control col-sm-12 col-md-10" ng-change="vm.changeUnidad()" required></select>
+        <label style="color:red;" ng-show="form.unidad.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Programa</label>
+        <select name="programa" ng-model="vm.entidad.ProgramaEducativoId" ng-options="i.Id as i.Nombre for i in vm.listProgramasEducativos" class="form-control col-sm-12 col-md-10" required></select>
+        <label style="color:red;" ng-show="form.programa.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Turno</label>
+        <select name="turno" ng-model="vm.entidad.TurnoId" ng-options="i.Id as i.Nombre for i in vm.listTurnos" class="form-control col-sm-12 col-md-10" required></select>
+        <label style="color:red;" ng-show="form.turno.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Año</label>
+        <input type="text" ng-model="vm.entidad.Ano" class="form-control" name="ano" numbers-only />
+        <label style="color:red;" ng-show="form.ano.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required&&!form.aula.$error.required&&!form.trimestre.$error.required&&!form.programa.$error.required&&!form.turno.$error.required&&!form.unidad.$error.required&&!form.ano.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>

@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Editar Materia</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required /><label style="color:red;" ng-show="form.nombre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">categoria</label>
+        <select name="categoriaid" ng-model="vm.entidad.CategoriaId" ng-options="i.Id as i.Nombre for i in vm.listCategorias" class="form-control col-sm-12 col-md-10" required></select>
+        <label style="color:red;" ng-show="form.categoriaid.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Clave</label>
+        <input type="text" ng-model="vm.entidad.Clave" class="form-control col-sm-12 col-md-10" name="clave" capitalize required /><label style="color:red;" ng-show="form.clave.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Seriacion</label>
+        <input type="text" ng-model="vm.entidad.Seriacion" class="form-control col-sm-12 col-md-10" name="seriacion" capitalize required /><label style="color:red;" ng-show="form.seriacion.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Creditos</label>
+        <input type="number" ng-model="vm.entidad.Creditos" class="form-control col-sm-12 col-md-10" name="creditos" required /><label style="color:red;" ng-show="form.creditos.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Horas</label>
+        <input type="number" ng-model="vm.entidad.Horas" class="form-control col-sm-12 col-md-10" name="horas" required /><label style="color:red;" ng-show="form.horas.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Tipo Calificacion</label>
+        <input type="text" ng-model="vm.entidad.TipoCalificacion" class="form-control col-sm-12 col-md-10" name="tipocalificacion" capitalize required /><label style="color:red;" ng-show="form.tipocalificacion.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required&&!form.unidadid.$error.required&&!form.programaeducativoid.$error.required&&!form.departamentoid.$error.required&&!form.contrato.$error.required&&!form.contratoconfidencial.$error.required&&!form.nombramientoid.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>

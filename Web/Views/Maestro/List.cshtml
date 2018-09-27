@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+<div class="container">
+    <div style="margin-bottom:2%;margin-top:2%;" class="container">
+        <button class="btn btn-default" ng-click="vm.massCreate()">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+            Nuevo
+        </button>
+        <div style="display:inline;float:right">
+            <input type="text" placeholder="Buscar" ng-model="vm.buscar" class="form-control" id="textBuscar" style="width:130px;display:inline-block" />
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-condensed table-striped">
+            <tr>
+                <th>Nombre</th>
+                <th>Unidad</th>
+                <th>Departamento</th>
+                <th>Programa Educativo</th>
+                <th>Nombramiento</th>
+                <th>Contrato</th>
+                <th>Contrato Confidencial</th>
+                <th>Disponibilidad</th>
+                <th></th>
+            </tr>
+            <tr ng-repeat="i in vm.items|filter:vm.buscar">
+                <td>{{i.Nombre}}</td>
+                <td>{{i.Unidad.Nombre}}</td>
+                <td>{{i.Departamento.Nombre}}</td>
+                <td>{{i.ProgramaEducativo.Nombre}}</td>
+                <td>{{i.Nombramiento.Nombre}}</td>
+                <td>{{i.Contrato}}</td>
+                <td>{{i.ContratoConfidencial}}</td>
+                <td>{{i.Disponibilidad}}</td>
+                <td><a href="" ng-click="vm.massEdit(i.Id)">Editar</a></td>
+            </tr>
+        </table>
+    </div>
+    <ul uib-pagination total-items="vm.totalItems" ng-model="vm.currentPage" ng-change="vm.pageChanged()" items-per-page="vm.itemsPerPage" previous-text="<" next-text=">"></ul>
+</div>

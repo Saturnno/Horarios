@@ -1,0 +1,148 @@
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\Business.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\obj\Debug\Business.dll
+C:\Users\abraham.grijalva\Documents\Visual Studio 2015\Projects\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\Business.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\obj\Debug\Business.dll
+C:\Users\Oscar\Desktop\Proyecto Horarios\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\Business.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\obj\Debug\Business.dll
+C:\Users\abraham.grijalva\Desktop\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\Business.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\obj\Debug\Business.dll
+C:\Users\Oscar\Desktop\Horarios 13032017\Horarios\Business\obj\Debug\Business.pdb
+D:\Horarios 13032017\Horarios\Business\bin\Debug\Business.dll.config
+D:\Horarios 13032017\Horarios\Business\bin\Debug\Business.dll
+D:\Horarios 13032017\Horarios\Business\bin\Debug\Business.pdb
+D:\Horarios 13032017\Horarios\Business\bin\Debug\DataAccess.dll
+D:\Horarios 13032017\Horarios\Business\bin\Debug\Entities.dll
+D:\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.dll
+D:\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Horarios 13032017\Horarios\Business\bin\Debug\DataAccess.pdb
+D:\Horarios 13032017\Horarios\Business\bin\Debug\Entities.pdb
+D:\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.xml
+D:\Horarios 13032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Horarios 13032017\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Horarios 13032017\Horarios\Business\obj\Debug\Business.dll
+D:\Horarios 13032017\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\Business.dll
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\Oscar\Desktop\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oscar\Desktop\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Horarios\Business\obj\Debug\Business.dll
+C:\Users\Oscar\Desktop\Horarios\Business\obj\Debug\Business.pdb
+D:\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll.config
+D:\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll
+D:\Horarios 16032017\Horarios\Business\bin\Debug\Business.pdb
+D:\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.dll
+D:\Horarios 16032017\Horarios\Business\bin\Debug\Entities.dll
+D:\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.dll
+D:\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.pdb
+D:\Horarios 16032017\Horarios\Business\bin\Debug\Entities.pdb
+D:\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.xml
+D:\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Horarios 16032017\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Horarios 16032017\Horarios\Business\obj\Debug\Business.dll
+D:\Horarios 16032017\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.dll
+C:\Users\fabia\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.dll
+C:\Users\rguzman.VEPINSA.000\Desktop\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Business.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\DataAccess.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\Entities.dll.config
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\obj\Debug\Business.pdb
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\Business\bin\Debug\CrystalDecisions.Web.dll

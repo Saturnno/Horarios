@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+<div class="container" style="margin-top:2%">
+    <input type="button" value="Nuevo" ng-click="vm.massCreate()" class="btn btn-link" />
+    <div class="row">
+        <div class="col-sm-12 col-md-4">
+            <div class="row">
+                <div class="col-sm-12">
+                    <label for="unidad">Unidad</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listUnidades" ng-model="vm.entidad.UnidadId" ng-change="vm.changeUnidad()"></select>
+                </div>
+                <div class="col-sm-12">
+                    <label for="departamento">Departamento</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listDepartamentos" ng-model="vm.entidad.DepartamentoId" ng-change="vm.changeDepartamento()"></select>
+                </div>
+                <div class="col-sm-12">
+                    <label for="programaeducativo">Programa Educativo</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listProgramasEducativos" ng-model="vm.entidad.ProgramaEducativoId" ng-change="vm.changeProgramaEducativo()"></select>
+                </div>
+            </div>
+            <div class="row" ng-show="vm.entidad.ProgramaEducativoId!=undefined">
+                <div class="col-sm-12">
+                    <label for="programaeducativo">Trimestre</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listTrimestres" ng-model="vm.entidad.TrimestreId" ng-change="vm.changeTrimestre()"></select>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-8">
+            <div class="row" style="margin-top:2%">
+                <div class="col-sm-12">
+                    <table class="table table-striped table-bordered">
+                        <tr>
+                            <td><b>Materias Para El Programa Educativo</b></td>
+                        </tr>
+                        <tr ng-repeat="i in vm.listProgramasEducativosDetalles" style="cursor:pointer">
+                            <td>{{i.Materia.Nombre}}</td>
+                        </tr>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+</div>

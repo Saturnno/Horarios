@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Agregar Programa Educativo</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required /><label style="color:red;" ng-show="form.nombre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Abreviatura</label>
+        <input type="text" ng-model="vm.entidad.Abreviatura" class="form-control col-sm-12 col-md-11" name="abreviatura" capitalize required /><label style="color:red;" ng-show="form.abreviatura.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Unidad</label>
+        @Html.DropDownList("unidadid", (IEnumerable<SelectListItem>)ViewBag.Unidades, "Unidad", new { @class = "form-control col-sm-12 col-md-10", required = "required", capitalize = "capitalize", ng_model = "vm.entidad.UnidadId",ng_change="vm.change()" })
+        <label style="color:red;" ng-show="form.unidadid.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Departamento</label>
+        <select name="departamentoid" ng-model="vm.entidad.DepartamentoId" ng-options="i.Id as i.Nombre for i in vm.listDepartamentos" class="form-control col-sm-12 col-md-10" required></select>
+        <label style="color:red;" ng-show="form.departamentoid.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Cordinador P.E</label>
+        <input type="text" ng-model="vm.entidad.CordinadorAcademico" class="form-control col-sm-12 col-md-10" name="cordinadoracademico" capitalize required /><label style="color:red;" ng-show="form.cordinadoracademico.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required&&!form.unidadid.$error.required&&!form.cordinadoracademico.$error.required&&!form.abreviatura.$error.required&&!form.departamentoid.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>

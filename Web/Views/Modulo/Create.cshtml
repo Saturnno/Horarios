@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+<form class="container" name="form">
+    <h2>Crear Modulo</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Hora Inicio</label>
+        <div class="col-sm-12 col-md-11">
+            <input type="number" class="form-control" style="width:60px;display:inline" min="0" max="12" ng-model="vm.HoraInicio"  name="horainicio" length-max="2" required/>:<input type="number" class="form-control" style="width:60px;display:inline" min="0" max="60" ng-model="vm.MinutoInicio" name="minutoinicio" required />
+            <input type="button" value="{{vm.Meridiano}}" class="btn btn-default" style="display:inline;width:50px;" ng-click="vm.cambiar()"/>
+            <label style="color:red;" ng-show="form.horainicio.$error.required||form.minutoinicio.$error.required"> *</label>
+        </div>
+        
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Hora Final</label>
+        <div class="col-sm-12 col-md-11">
+            <input type="number" class="form-control" style="width:60px;display:inline" min="0" max="12" ng-model="vm.HoraFinal" length-max="2" name="horaFinal" required />:<input type="number" class="form-control" style="width:60px;display:inline" min="0" max="60" ng-model="vm.MinutoFinal" name="minutofinal" required />
+            <input type="button" value="{{vm.MeridianoFinal}}" class="btn btn-default" style="display:inline;width:50px;" ng-click="vm.cambiarFinal()" />
+            <label style="color:red;" ng-show="form.horafinal.$error.required||form.minutofinal.$error.required"> *</label>
+        </div>
+        
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.horainicio.$error.required&&!form.horafinal.$error.required&&!form.minutoinicio.$error.required&&!form.minutofinal.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>
+

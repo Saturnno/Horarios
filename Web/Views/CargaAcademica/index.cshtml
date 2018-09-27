@@ -1,0 +1,35 @@
+﻿
+@{
+
+    ViewBag.Title = "index";
+}
+
+<h2>GENERAR CARGA ACADEMICA</h2>
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="row">
+            <div class="col-sm-12">
+                <label for="unidad">Unidad</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listUnidades" ng-model="vm.entidad.UnidadId" ng-change="vm.changeUnidad()"></select>
+            </div>
+            <div class="col-sm-12">
+                <label for="departamento">Departamento</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listDepartamentos" ng-model="vm.entidad.DepartamentoId" ng-change="vm.changeDepartamento()"></select>
+            </div>
+            <div class="col-sm-12">
+                <label for="programaeducativo">Programa Educativo</label><select class="form-control" ng-options="i.Id as i.Nombre for i in vm.listProgramasEducativos" ng-model="vm.entidad.ProgramaEducativoId" ng-change="vm.changeProgramaEducativo()"></select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <label for="programaeducativo">Maestro</label><select name="maestro" class="form-control" ng-options="i.Id as i.Nombre for i in vm.listMaestros" ng-model="vm.entidad.MaestroId" ng-change="vm.changeMaestro()" required></select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <label for="programaeducativo">Trimestre</label><select name="trimestre" class="form-control" ng-options="i.Id as i.Nombre for i in vm.listTrimestres" ng-model="vm.entidad.TrimestreId" ng-change="vm.changeTrimestre()" required></select>
+            </div>
+        </div>
+ 
+       </div><br />
+    </div>
+
+

@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<form class="container" name="form">
+    <h2>Editar Programa Educativo</h2>
+    <div class="row">
+        <label class="col-sm-12 col-md-1">Nombre</label>
+        <input type="text" ng-model="vm.entidad.Nombre" class="form-control col-sm-12 col-md-11" name="nombre" capitalize required /><label style="color:red;" ng-show="form.nombre.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Abreviatura</label>
+        <input type="text" ng-model="vm.entidad.Abreviatura" class="form-control col-sm-12 col-md-11" name="abreviatura" capitalize required /><label style="color:red;" ng-show="form.abreviatura.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Unidad</label>
+        <select name="unidadid" ng-model="vm.entidad.UnidadId" ng-options="i.Id as i.Nombre for i in vm.listUnidades" required class="form-control col-sm-12 col-md-10" ng-change="vm.change()"></select>
+
+        <label style="color:red;" ng-show="form.unidadid.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Departamento</label>
+        <select name="departamentoid" ng-model="vm.entidad.DepartamentoId" ng-options="i.Id as i.Nombre for i in vm.listDepartamentos" required class="form-control col-sm-12 col-md-10"></select>
+        
+        <label style="color:red;" ng-show="form.departamentoid.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <label class="col-sm-12 col-md-2">Cordinador P.E</label>
+        <input type="text" ng-model="vm.entidad.CordinadorAcademico" class="form-control col-sm-12 col-md-10" name="cordinadoracademico" capitalize required /><label style="color:red;" ng-show="form.cordinadoracademico.$error.required"> *</label>
+    </div><br />
+    <div class="row">
+        <input type="button" class="btn btn-success" value="Guardar" ng-click="vm.guardar()" ng-show="(!form.nombre.$error.required&&!form.departamentoid.$error.required&&!form.cordinadoracademico.$error.required&&!form.abreviatura.$error.required&&!form.unidadid.$error.required)" />
+        <input type="button" class="btn btn-default" value="Regresar" ng-click="vm.list()" />
+    </div>
+</form>

@@ -1,0 +1,30 @@
+﻿@model Entities.Modulo
+@{
+    Layout = null;
+}
+<div class="container">
+    <div style="margin-bottom:2%;margin-top:2%;" class="container">
+        <button class="btn btn-default" ng-click="vm.massCreate()">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+            Nuevo
+        </button>
+        <div style="display:inline;float:right">    
+            <input type="text" placeholder="Buscar" ng-model="vm.buscar" class="form-control" id="textBuscar" style="width:130px;display:inline-block" />
+        </div>    
+    </div>
+    <div class="table-responsive">
+        <table class="table table-condensed table-striped">
+            <tr>
+                <th>@Html.DisplayNameFor(model=>model.FechaInicio)</th>
+                <th>@Html.DisplayNameFor(model => model.FechaFinal)</th>
+                <th></th>
+            </tr>
+            <tr ng-repeat="i in vm.items|filter:vm.buscar">
+                <td>{{i.FechaInicio}}</td>
+                <td>{{i.FechaFinal}}</td>
+                <td><a href="" ng-click="vm.massEdit(i.Id)">Editar</a></td>
+            </tr>
+        </table>
+    </div>
+    <ul uib-pagination total-items="vm.totalItems" ng-model="vm.currentPage" ng-change="vm.pageChanged()" items-per-page="vm.itemsPerPage" previous-text="<" next-text=">"></ul>
+</div>
