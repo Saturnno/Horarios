@@ -320,3 +320,47 @@ C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\
 C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.ReportSource.dll
 C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.Shared.dll
 C:\Users\Remoto\Downloads\Horarios 16032017\Horarios 16032017\Horarios 16032017\Horarios\DataAccess\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\Entities.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\Entities.dll.config
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m1.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m2.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m3.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m4.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m5.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m6.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m7.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m8.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m9.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m10.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m11.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m12.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m13.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m14.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m15.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m16.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m17.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m18.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m19.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m20.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m21.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m22.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m23.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.Migrations.m24.resources
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Remoto\Documents\Visual Studio 2017\proyectos\Horarios\DataAccess\obj\Debug\DataAccess.pdb

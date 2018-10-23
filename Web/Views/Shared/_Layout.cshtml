@@ -9,6 +9,36 @@
     @Scripts.Render("~/bundles/modernizr")
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
+<style>
+    header{
+        background-color: #8F1615 !important;
+       
+    }
+        header li a{
+            color: white !important;
+        }
+        header .dropdown-menu li a{
+            color: #383838 !important;
+        }
+
+        header .dropdown-menu li a:hover {
+            color: white !important;
+        }
+        header .navbar-brand {
+            color: white !important;
+        }
+        header .caret {
+            border-top-color: white !important;
+            border-bottom-color: white !important;
+        }
+        header .dropdown:active .caret {
+            border-top-color: #383838 !important;
+            border-bottom-color: #383838 !important;
+        }
+        header .dropdown .open .dropdown-toggle {
+            color: #383838 !important;
+        }
+</style>
 <body>
     <header class="navbar navbar-default navbar-fixed-top navbar-inner" ng-controller="layoutController as vm" ng-cloak>
         <div class="container">
@@ -21,7 +51,7 @@
                 </button>
                 <a class="navbar-brand visible-xs" href="/">Carga Academica</a>
             </div>
-            <nav class="hidden-xs">
+            <nav class="hidden-xs" >
                 <ul class="nav navbar-nav">
                     <a href="/" role="button" class="navbar-brand">
                         Carga Academica
