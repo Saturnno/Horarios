@@ -5,9 +5,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CrystalDecisions.Reporting;
 
 namespace Entities
 {
+    //Carga Académica
     [Table("CargasAcademicas")]
     public class CargaAcademica
     {
